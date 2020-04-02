@@ -13,7 +13,7 @@ int main() {
 	char y;
 	cout << "Bir kelime giriniz(max 20 harf): " << a;
 	cin >> a;
-	cout<<"Hangi harfi saymasını istediğinizi yazın: ";
+	cout<<"Hangi harfi saymasini istediginizi yazin: ";
 	cin>> b;
 	int t=b;
 	if(t>96 && t<123){
@@ -28,7 +28,7 @@ int main() {
 
 		}
 	}
-	cout << "Kelimenizde " << sayac << " adet 'a' harfi vardır.";
+	cout << "Kelimenizde " << sayac << " adet 'a' harfi vardir.";
 
 
 
